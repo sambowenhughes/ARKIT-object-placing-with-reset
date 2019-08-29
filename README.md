@@ -17,6 +17,13 @@ What things you need to get started:
 XCode 10.2.1
 ```
 
+## Running the App
+1. Open up XCode
+2. Open up the .xcodeproj file from this solution
+3. Setup your Apple account
+4. Connect your iPhone
+5. Run the app
+
 ## Running the tests
 
 Application currently has no tests.
