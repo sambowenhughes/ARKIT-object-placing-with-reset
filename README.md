@@ -24,7 +24,7 @@ Application currently has no tests.
 ## Built With
 
 * [Arkit 2.0](https://developer.apple.com/arkit/) - Apple SDK for building AR apps
-* [Swift] (https://developer.apple.com/swift/) - Apple's Swift programming language for programming Apple Apps
+* [Swift](https://developer.apple.com/swift/) - Apple's Swift programming language for programming Apple Apps
 
 
 ## Authors
